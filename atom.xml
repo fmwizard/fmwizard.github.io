@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zhuohang Qin</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-11-10T15:53:10.171Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Zhuohang Qin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About</title>
+    <link href="http://example.com/2022/11/10/About/"/>
+    <id>http://example.com/2022/11/10/About/</id>
+    <published>2022-11-10T03:58:34.000Z</published>
+    <updated>2022-11-10T15:53:10.171Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="About"><a href="#About" class="headerlink" title="About"></a>About</h1><p>Hi there! I am Zhuohang Qin, an undergraduate student in Computer Science at Southwest Jiaotong University. I am advised by Professor <a href="https://zqyuan.github.io/homepage/index.htm"><strong>Zhaoquan Yuan</strong></a>, and my research interests include <strong>creative narrative generation</strong> and <strong>multimodal computing</strong>.</p><h3 id="I-am-looking-for-a-PhD-position-for-fall-2023-Please-check-here-to-see-my-CV"><a href="#I-am-looking-for-a-PhD-position-for-fall-2023-Please-check-here-to-see-my-CV" class="headerlink" title="I am looking for a PhD position for fall 2023! Please check here to see my CV."></a>I am looking for a PhD position for fall 2023! Please check <a href="/attaches/CV.pdf">here</a> to see my CV.</h3><hr><h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><p>Sorry to disappoint you, I haven’t published a high-quality paper so far :(</p><p>However, that’s why I hope to get a chance so we can work together to fill this gap :)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;About&quot;&gt;&lt;a href=&quot;#About&quot; class=&quot;headerlink&quot; title=&quot;About&quot;&gt;&lt;/a&gt;About&lt;/h1&gt;&lt;p&gt;Hi there! I am Zhuohang Qin, an undergraduate student in C</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>multimodalQA</title>
+    <link href="http://example.com/2022/07/19/multimodalQA/"/>
+    <id>http://example.com/2022/07/19/multimodalQA/</id>
+    <published>2022-07-19T09:45:26.000Z</published>
+    <updated>2022-07-19T10:06:13.865Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="ewqe"><a href="#ewqe" class="headerlink" title="ewqe"></a>ewqe</h1><p>qweqwe</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;ewqe&quot;&gt;&lt;a href=&quot;#ewqe&quot; class=&quot;headerlink&quot; title=&quot;ewqe&quot;&gt;&lt;/a&gt;ewqe&lt;/h1&gt;&lt;p&gt;qweqwe&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/07/19/hello-world/"/>
+    <id>http://example.com/2022/07/19/hello-world/</id>
+    <published>2022-07-19T07:43:59.982Z</published>
+    <updated>2022-07-19T07:43:59.982Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
