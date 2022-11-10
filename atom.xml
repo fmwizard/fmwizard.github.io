@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-10T15:53:10.171Z</updated>
+  <updated>2022-11-10T16:07:40.451Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2022/11/10/About/"/>
     <id>http://example.com/2022/11/10/About/</id>
     <published>2022-11-10T03:58:34.000Z</published>
-    <updated>2022-11-10T15:53:10.171Z</updated>
+    <updated>2022-11-10T16:07:40.451Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="About"><a href="#About" class="headerlink" title="About"></a>About</h1><p>Hi there! I am Zhuohang Qin, an undergraduate student in Computer Science at Southwest Jiaotong University. I am advised by Professor <a href="https://zqyuan.github.io/homepage/index.htm"><strong>Zhaoquan Yuan</strong></a>, and my research interests include <strong>creative narrative generation</strong> and <strong>multimodal computing</strong>.</p><h3 id="I-am-looking-for-a-PhD-position-for-fall-2023-Please-check-here-to-see-my-CV"><a href="#I-am-looking-for-a-PhD-position-for-fall-2023-Please-check-here-to-see-my-CV" class="headerlink" title="I am looking for a PhD position for fall 2023! Please check here to see my CV."></a>I am looking for a PhD position for fall 2023! Please check <a href="/attaches/CV.pdf">here</a> to see my CV.</h3><hr><h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><p>Sorry to disappoint you, I haven’t published a high-quality paper so far :(</p><p>However, that’s why I hope to get a chance so we can work together to fill this gap :)</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="About"><a href="#About" class="headerlink" title="About"></a>About</h1><p>Hi there! I am Zhuohang Qin, an undergraduate student in Computer Science at Southwest Jiaotong University. I am advised by Professor <a href="https://zqyuan.github.io/homepage/index.htm"><strong>Zhaoquan Yuan</strong></a>, and my research interests include <strong>creative narrative generation</strong> and <strong>multimodal computing</strong>.</p><h4 id="I-am-looking-for-a-PhD-position-for-fall-2023-Please-check-here-to-see-my-CV"><a href="#I-am-looking-for-a-PhD-position-for-fall-2023-Please-check-here-to-see-my-CV" class="headerlink" title="I am looking for a PhD position for fall 2023! Please check here to see my CV."></a>I am looking for a PhD position for fall 2023! Please check <a href="/attaches/CV.pdf">here</a> to see my CV.</h4><hr><h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><p>Sorry to disappoint you, I haven’t published a high-quality paper so far :(</p><p>However, that’s why I hope to get a chance so we can work together to fill this gap :)</p>]]></content>
     
     
       
